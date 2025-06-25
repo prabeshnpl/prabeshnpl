@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a passionate and self-motivated **Full-Stack Developer** with over a year of hands-on experience in learning and building real-world projects. I have a strong foundation in both frontend and backend technologies, and a good grasp of system analysis and design principles. I enjoy working on responsive web interfaces, scalable backend systems, and engaging mobile apps.
+I am a passionate and self-motivated **Full-Stack Developer** with over a year of hands-on experience in learning and building real-world projects. I have a strong foundation in both frontend and backend technologies, and a good grasp of system analysis and design principles. Currently pursuing AI/ML further to enhance my ability to build intelligent, data-driven applications through actively exploring the latest advancements in AI, data science, and scalable web architecture..
 
 ---
 
@@ -21,8 +21,8 @@ I am a passionate and self-motivated **Full-Stack Developer** with over a year o
 - **Backend:** Django (with Django REST Framework)  
 - **Mobile Development:** Flutter  
 - **Database:** MySQL, SQLite
-- **Machine Learning:** Numpy, Pandas, Matplotlib 
-- **Others:** REST API, UI/UX design, System Design
+- **Machine Learning:** Numpy, Pandas, Matplotlib, Scikit-Learn
+- **Others:** REST API, System Design
 
 
 ---
