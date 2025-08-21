@@ -22,7 +22,7 @@ I am a passionate and self-motivated **Full-Stack Developer** with over a year o
 - **Mobile Development:** Flutter  
 - **Database:** MySQL, SQLite
 - **Machine Learning:** Numpy, Pandas, Matplotlib, Scikit-Learn
-- **Others:** REST API, System Design
+- **Others:** Docker, REST API, System Design, DDD Architecture
 
 
 ---
