@@ -35,7 +35,10 @@ A personal webpage that showcases more about my background, skills, and work. Vi
 ### 🔗 [Donation Management System](https://donation-system-uwvm.onrender.com/)
 Helps NGOs and INGOs efficiently raise and manage funds with interfaces for both donors and beneficiaries. Supports online transactions and campaign-based analysis.
 
-### 🔗 [Chatting App](https://chat-app-vtpp.onrender.com/)
+### 🛍️ [KINMEL](https://kinmel-7777.onrender.com/)
+Simple website showcasing the flow of e-commerce websites. Have features like checkout and payment integration, buyer and seller role, cart system, user authentication, and more...
+
+### 🗨️ [Chatting App](https://chat-app-vtpp.onrender.com/)
 A real-time chat app with secure login/logout and support for both voice and text messages. Built for interactive communication among users.
 
 ### 🎲 Ludo (Flutter App)
