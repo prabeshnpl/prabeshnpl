@@ -16,13 +16,16 @@ I am a passionate and self-motivated **Software Developer** with over a year of 
 
 ## 🛠 Skills
 
-- **Languages:** C/C++, Python, Dart, JavaScript  
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Django (with Django REST Framework)  
-- **Mobile Development:** Flutter  
-- **Database:** MySQL, SQLite
-- **Machine Learning:** Numpy, Pandas, Matplotlib, Scikit-Learn, TensorFlow
-- **Others:** Docker, REST API, System Design, DDD Architecture
+- **Languages:** Python, JavaScript, HTML5, CSS3 
+- **Backend:** Django, Django REST Framework, Flask 
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind
+- **Databases:** PostgreSQL, MySQL, SQLite 
+- **APIs:** RESTful API Design, JWT, Session Authentication, Third-party API Integration 
+- **DevOps:** Docker, Docker Compose, Git, GitHub, GitHub Actions, CI/CD, GHCR, Linux, Deployment 
+- **Realtime:** Django Channels, WebSockets, Async Programming, Background Processing 
+- **Data:** Pandas, Matplotlib, Scikit-learn 
+- **Software Engineering:** Clean Architecture, Performance Optimization, Debugging, Unit Testing, Code Reviews, 
+Agile Development, Technical Documentation 
 
 
 ---
@@ -31,6 +34,9 @@ I am a passionate and self-motivated **Software Developer** with over a year of 
 
 ### 🌐 [Portfolio Website](https://prabeshnepal.com.np)
 A personal webpage that showcases more about my background, skills, and work. Visit to learn more about me!
+
+### 🐙 [Organization Manager](https://github.com/prabeshnpl/Personal-Activity-Manager)
+A webpage that helps organize all the workflow and financial transactions of an organization or individual.
 
 ### 🔗 [Donation Management System](https://donation-system-uwvm.onrender.com/)
 Helps NGOs and INGOs efficiently raise and manage funds with interfaces for both donors and beneficiaries. Supports online transactions and campaign-based analysis.
