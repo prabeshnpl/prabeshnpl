@@ -36,7 +36,12 @@ Agile Development, Technical Documentation
 A personal webpage that showcases more about my background, skills, and work. Visit to learn more about me!
 
 ### 🐙 [Organization Manager](https://github.com/prabeshnpl/Personal-Activity-Manager)
-A webpage that helps organize all the workflow and financial transactions of an organization or individual.
+A full stack multi-tenant project that helps organize all the workflow and financial transactions of an organization or individual.
+Tech Stack: 
+  - Django + React
+  - Docker + GHCR (CI/CD)
+  - Redis + FCM
+  - PostgreSql
 
 ### 🔗 [Donation Management System](https://donation-system-uwvm.onrender.com/)
 Helps NGOs and INGOs efficiently raise and manage funds with interfaces for both donors and beneficiaries. Supports online transactions and campaign-based analysis.
