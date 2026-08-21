@@ -43,18 +43,12 @@ Tech Stack:
   - Redis + FCM
   - PostgreSql
 
-### 🔗 [Donation Management System](https://donation-system-uwvm.onrender.com/)
-Helps NGOs and INGOs efficiently raise and manage funds with interfaces for both donors and beneficiaries. Supports online transactions and campaign-based analysis.
-
-### 🛍️ [KINMEL](https://kinmel-7777.onrender.com/)
-Simple website showcasing the flow of e-commerce websites. Have features like checkout and payment integration, buyer and seller role, cart system, user authentication, and more...
-
 ### 🗨️ [Chatting App](https://chat-app-vtpp.onrender.com/)
 A real-time chat app with secure login/logout and support for both voice and text messages. Built for interactive communication among users.
 
-### 🎲 Ludo (Flutter App)
-A classic Ludo game that supports two, three, or four players. Built using Dart and Flutter for an engaging mobile experience.
-
+### 🎲 [Sentiment Analysis] (https://github.com/prabeshnpl/Sentiment-Analysis.git)
+Sentiment Analysis engine trained on the Amazon Fine Food Reviews dataset.
+Trained on SVM and NB models and fine tuning them.
 
 ---
 
