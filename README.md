@@ -46,7 +46,7 @@ Tech Stack:
 ### 🗨️ [Chatting App](https://chat-app-vtpp.onrender.com/)
 A real-time chat app with secure login/logout and support for both voice and text messages. Built for interactive communication among users.
 
-### 🎲 [Sentiment Analysis] (https://github.com/prabeshnpl/Sentiment-Analysis.git)
+### 🎲 [Sentiment Analysis](https://github.com/prabeshnpl/Sentiment-Analysis.git)
 Sentiment Analysis engine trained on the Amazon Fine Food Reviews dataset.
 Trained on SVM and NB models and fine tuning them.
 
